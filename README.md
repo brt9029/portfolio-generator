@@ -26,7 +26,7 @@ Go through a series of questions using inquirer in order to create a basic websi
 - Answer the questions on screen as needed
 - Files will be generated inside of ```dist``` folder
 
-![image](https://user-images.githubusercontent.com/26530136/182007717-9b3f3a7b-583b-4ee4-9831-cdb5b155f49d.png)
+![image](https://user-images.githubusercontent.com/26530136/182009976-3e9a3c9e-48c8-45d0-9c8b-08d75d05a9cb.png)
 
 ## Credits
 
