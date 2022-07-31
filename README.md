@@ -5,7 +5,7 @@
 ![brt9029](https://img.shields.io/badge/-javascript-yellow)
 ![brt9029](https://img.shields.io/badge/-css-blue)
 ![brt9029](https://img.shields.io/badge/-node-brightgreen)
-![brt9029](https://img.shields.io/badge/-inquirer-blueviolet)
+![brt9029](https://img.shields.io/badge/-html-blueviolet)
 ![brt9029](https://img.shields.io/badge/-bootstrap-orange)
 
 ## Description
